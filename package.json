@@ -1,6 +1,6 @@
 {
   "name": "timeclient",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple tool for timing stages of a Node.js http(s) client to a server.",
   "main": "timeclient.js",
   "directories": {
